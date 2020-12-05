@@ -1,0 +1,357 @@
+artist,album,track_name,track_id,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,target
+Evol Intent,Amazing Friends,Broken Sword,5YJIHyYOLHhxSNXaEQta4c,0,0.351,0.999,1,-3.208,1,0.0874,0.000253,0.835,0.301,0.34,114.711,361693,5,0
+Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Bahara,1gwO79MdYdumgIjxq8eCxB,56,0.456,0.739,5,-6.733,1,0.0402,0.0718,7.24e-06,0.134,0.72,85.773,325707,4,1
+Pritam,Chhichhore,Khairiyat (Bonus Track),3oM90C4SZLYzVZJEZD5EQk,58,0.606,0.654,0,-5.625,0,0.0365,0.484,1.13e-06,0.152,0.597,124.972,270707,4,1
+ILS,Bohemia,Feed The Addiction,23AUyZevDLz3pwkICwIJa0,0,0.585,0.887,1,-6.485,1,0.0422,0.000171,0.813,0.554,0.212,134.884,278280,4,1
+Amaal Mallik,M.S.Dhoni - The Untold Story,Phir Kabhi,4jk4CaqBMBbMZhf3PuR1ai,57,0.405,0.665,4,-5.498,1,0.0328,0.614,0,0.525,0.404,81.921,287422,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Legendary Animals,4Bn17nDmkcaBoh4tYrFiag,26,0.455,0.526,9,-12.246,1,0.0449,0.628,0.903,0.154,0.0345,139.937,163948,4,1
+Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),I Hate Luv Storys,4zUPL2OPTO3hgNhjaA1Rjn,49,0.747,0.81,11,-8.352,0,0.0541,0.0688,0.0405,0.0592,0.937,130.012,285213,4,1
+Ajay-Atul,"Sapna Jahan (From ""Brothers"")","Sapna Jahan (From ""Brothers"")",6uQkoo1UGWThtEpNEYc6Ga,53,0.471,0.329,0,-11.958,0,0.0312,0.78,0.0021,0.117,0.144,126.107,341780,4,1
+Staind,Break the Cycle,Epiphany,0p7HrbUcy8fl7MaImwevxP,44,0.559,0.487,6,-9.349,1,0.0266,0.0327,0.0814,0.129,0.145,149.961,256133,4,1
+Shankar-Ehsaan-Loy,Dil Dhadakne Do,Pehli Baar,39GcR1iJpR2RX629O0zuW5,46,0.734,0.738,9,-4.606,0,0.0368,0.00147,0,0.113,0.813,126.007,263810,4,0
+Through Fire,All Animal,Listen To Your Heart,29b2h29UnjjL8jGrDIfEsU,48,0.189,0.878,11,-6.256,0,0.153,1.67e-05,0.00126,0.13,0.379,170.045,215947,4,0
+Shankar-Ehsaan-Loy,Wake Up Sid (Original Motion Picture Soundtrack),Life Is Crazy,5gN3uHEvCU4Ui6RBCN1lEA,47,0.638,0.812,2,-5.622,1,0.0392,0.321,2.34e-05,0.282,0.709,139.934,221800,4,1
+Shankar-Ehsaan-Loy,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Rock N Roll Soniye,0W1eHrIACKah9l0Q9v611q,45,0.787,0.871,5,-6.193,0,0.142,0.109,0,0.0426,0.831,94.998,341840,4,0
+Pritam,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition],Bulleya,0Bz7dfqPY4JOGZO3O1j8Wh,59,0.552,0.769,2,-4.504,0,0.0465,0.497,0,0.112,0.702,86.957,348966,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),One-Eyed Monster,4KXso8tiAGMx9nM6Hnj47a,28,0.31,0.695,0,-12.317,1,0.0432,0.522,0.896,0.11,0.195,133.582,230052,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Gortyn,0yfF0j6s5S2ZoQLrVCXfP3,25,0.509,0.282,2,-16.153,1,0.0366,0.0394,0.755,0.106,0.0398,120.06,59837,4,1
+A.R. Rahman,Rockstar,Phir Se Ud Chala,1kcV2LJxt5v0s2cEGtEJ5i,61,0.647,0.656,11,-8.632,1,0.0354,0.657,0.000163,0.343,0.453,119.965,268833,4,0
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Ik Junoon (Paint It Red),7e6qTHVfRdaYsio90s1fHC,53,0.79,0.848,2,-7.798,1,0.0508,0.364,0.00147,0.148,0.641,127.034,299119,4,0
+Pritam,Cocktail,"Tum Hi Ho Bandhu (From ""Cocktail"")",2zZTXtLqCsICzEcztKjn47,51,0.714,0.892,11,-5.342,0,0.0516,0.00145,0.000817,0.0462,0.899,134.997,282012,4,0
+Various Artists,Baar Baar Dekho (Original Motion Picture Soundtrack),Sau Aasmaan,0zHZSO80CTxNtvtRhveHRJ,63,0.63,0.729,6,-4.93,1,0.0287,0.123,8e-06,0.0786,0.44,127.919,234737,4,0
+Various Artists,Karwaan,Saansein,6l1VsKiMyaUWElFrM1rsuu,57,0.693,0.518,1,-9.146,1,0.0282,0.653,0.531,0.138,0.374,128.041,266042,4,0
+Badshah,The Badshah of Party Hits,Kar Gayi Chull,3fPgIknlkDWXs1l2noKZbp,58,0.827,0.737,11,-5.473,0,0.0764,0.0316,0.000322,0.211,0.873,121.99,187711,4,0
+Coheed and Cambria,The Gutter (Acoustic),The Gutter - Acoustic,5jb1zewrZFlNX6XXHDRmeB,30,0.518,0.36,11,-8.544,0,0.0544,0.806,0,0.181,0.269,123.306,373467,4,0
+Blindlove,I Wanna Be Okay,I Wanna Be Okay,2uof4AJBrq12JusiOjXN7g,41,0.448,0.656,2,-5.096,1,0.027,0.00629,1.88e-06,0.333,0.13,158.127,222635,4,1
+Our Last Night,Let Light Overcome The Darkness,Lost - Acoustic,52NOlQ9uA02ulY9E86hpRv,40,0.562,0.34,3,-7.446,1,0.0293,0.79,0,0.154,0.448,146.992,233769,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Sacred Land of Artemis,5BPUfta2IcMFNHFdOFHZJi,31,0.84,0.0996,7,-17.873,1,0.101,0.772,0.749,0.0945,0.173,108.048,90654,3,1
+Shankar-Ehsaan-Loy,2 States,Offo,3f26GAn3yOXfoclLyN8AdD,47,0.799,0.609,3,-6.729,1,0.0448,0.0158,0,0.0642,0.758,130.031,213942,4,0
+Amit Trivedi,Udta Punjab,Ud-daa Punjab,7yn0E97MoGLBaW8mqIwqNr,51,0.909,0.906,1,-3.701,1,0.206,0.09,1.25e-05,0.287,0.625,121.996,274701,4,1
+Suni Clay,Suni Clay,My Hood (Full Mix),1buitg9HpTppOpOvXVu6E9,45,0.677,0.936,0,-3.036,0,0.151,0.134,0,0.156,0.762,99.943,271413,4,0
+Celldweller,Celldweller,One Good Reason,4RdhhJ3PWp7DzYV8qW3xU0,0,0.242,0.947,1,-5.727,1,0.169,0.000117,0.000271,0.324,0.397,102.503,232987,4,0
+Pritam,"Hawayein (From ""Jab Harry Met Sejal"")","Hawayein (From ""Jab Harry Met Sejal"")",6871FKHumiy1Wfr6vF7Xxt,58,0.606,0.601,2,-5.576,1,0.0283,0.795,0.000522,0.127,0.453,125.964,289999,4,1
+Darshan Raval,Bhula Diya - Single,Bhula Diya,23Sw6Z8SSco0uJgfZNh4q5,1,0.331,0.465,0,-5.954,1,0.0397,0.556,0,0.356,0.11,136.193,217941,4,0
+Arijit Singh,Groove With Arijit Singh,"Ilahi (From ""Yeh Jawaani Hai Deewani"")",0VxgNsSywsjapKGXvzj8RH,46,0.594,0.967,9,-5.767,1,0.0857,0.166,2.54e-05,0.105,0.452,132.009,228982,4,0
+Vishal-Shekhar,Break Ke Baad,Adhoore,298atiKYvG84VfbXNbZiX5,48,0.799,0.542,0,-7.142,1,0.0308,0.0858,1.5e-06,0.126,0.673,107.993,264210,4,1
+Darshan Raval,Saari Ki Saari 2.0,Saari Ki Saari 2.0,34ppgPuSUgKIqUIBT26ulf,64,0.309,0.354,4,-8.894,1,0.0256,0.83,3.15e-05,0.0684,0.2,83.958,248222,4,0
+Revis,Places For Breathing,Seven,3W6X3uFO8Bf3Y0XiEsYHPw,34,0.505,0.893,4,-3.841,0,0.0464,0.00172,0,0.246,0.227,147.971,253600,4,0
+Shreya Ghoshal,Best Of Shreya Ghoshal,"Ye Ishq Hai (From ""Jab We Met"")",1UHVj0W8BRn08AXvWcv8i6,48,0.823,0.637,5,-7.127,0,0.159,0.436,2.15e-06,0.255,0.873,118.043,280974,4,0
+Vishal-Shekhar,Anjaana Anjaani,I Feel Good,09sq0BHe85uV2ADUx1gaiA,45,0.636,0.785,7,-6.876,0,0.0279,0.0262,0.00136,0.297,0.749,125.974,317505,4,1
+Harris Jayaraj,Orange,Chilipiga,2mUvMLSJmlo5iI8PMLRRJz,46,0.657,0.458,0,-10.035,1,0.0272,0.409,1.67e-06,0.157,0.339,93.484,328617,4,1
+Various Artists,Kabir Singh,Mere Sohneya,7sJQv0LRPgM2xCkkdWOlyj,65,0.376,0.643,9,-5.713,1,0.0411,0.558,0,0.217,0.646,136.224,193356,5,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The 300,6Ki8AKy3LkYW5r8oug7MVi,35,0.189,0.339,2,-18.32,1,0.0382,0.683,0.832,0.206,0.101,91.946,262108,4,1
+Shankar-Ehsaan-Loy,Wake Up Sid (Original Motion Picture Soundtrack),Wake Up Sid! - Club Mix,3lxaMlRmb2r3rLXhhJVj1u,40,0.556,0.701,2,-6.537,1,0.0346,0.0374,0,0.122,0.927,139.981,223947,4,0
+Sachin-Jigar,"Jeena Jeena (From ""Badlapur"")","Jeena Jeena (From ""Badlapur"")",5ZhKD46Q7mhsl0awl7ZMJc,52,0.677,0.318,5,-9.196,1,0.028,0.775,0,0.118,0.585,104.983,228969,4,0
+KK,Pal,Pyaar Ke Pal,6GWchpKWsKkwR6jcl0yG6V,47,0.599,0.135,4,-12.376,1,0.0308,0.845,2.43e-05,0.11,0.168,122.107,359373,3,0
+Dieselboy,The Dungeonmaster's Guide (Disc 1),You Must Follow - Evol Intent VIP,3t6JUvcsEn7l8RWrPhiBGN,38,0.505,0.98,11,-6.675,1,0.133,0.000103,0.427,0.824,0.31,170.022,338960,4,0
+A.R. Rahman,Highway,Maahi Ve,1sbW5E7w8tnqpYk0Frx8QG,57,0.604,0.72,5,-7.276,1,0.0603,0.571,1.18e-05,0.12,0.528,130.995,240784,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Passing the Torch,0ZjorVjyX40Rw0qkcqgSsb,26,0.231,0.201,2,-22.07,0,0.0445,0.863,0.81,0.0929,0.0293,83.93,103968,4,1
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Dil Dhadakne Do,46elU7IBKWf55D5sjHGqO7,54,0.778,0.599,2,-4.758,1,0.032,0.0705,0,0.59,0.949,116.951,230319,4,1
+Armaan Malik,Bollywood Romantic Songs With Armaan Malik,Main Agar Kahoon-Bol Do Na Zara,1Bazi2zsEYbyFQVZLCUpxA,33,0.572,0.366,6,-8.675,0,0.03,0.911,1.61e-06,0.102,0.355,134.023,294754,3,1
+Pritam,Yeh Jawaani Hai Deewani,Balam Pichkari,18e3XXYCv4Tx8uUl1mP3CN,58,0.732,0.944,0,-4.115,1,0.09,0.209,0,0.403,0.957,120.019,288903,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),On the Battlefield,74wPbV0uxxjQh9hw3cMsTt,29,0.317,0.76,0,-14.633,1,0.0671,0.508,0.884,0.13,0.0395,117.081,296661,4,1
+Imminence,Turn the Light On: Acoustic Reimagination,Crawling - Acoustic,5ScpZZgpudFJBPVU2ssI2m,34,0.388,0.273,4,-8.231,0,0.0286,0.55,0.00244,0.108,0.232,109.702,183545,4,0
+3 Doors Down,3 Doors Down,Citizen/Soldier,43Tzmi4Lw0GcZRAE4xqwOg,44,0.638,0.818,8,-5.524,1,0.0334,0.0136,0.0103,0.191,0.47,97.021,232933,4,1
+Shantanu Moitra,3 Idiots,Give Me Some Sunshine,1Qt0OGUUPibpmk1FpFQ43m,53,0.67,0.61,0,-7.987,1,0.0579,0.381,6.92e-06,0.106,0.547,97.992,245130,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Things Fall Apart,7E7UTl0bFNIvTCbFDZ3Z0D,28,0.111,0.264,7,-19.631,0,0.0472,0.837,0.948,0.101,0.0663,93.652,177766,4,1
+Darshan Raval,Kaash Aisa Hota - Single,Kaash Aisa Hota,5aA9HqRPZHROKWrO5RczTm,1,0.395,0.393,7,-9.498,0,0.0317,0.857,1.77e-06,0.114,0.274,75.964,212800,4,0
+A.R. Rahman,Rang De Basanti (Original Motion Picture Soundtrack),Roobaroo,3vqJY3pVELLIxqXXyI08yr,56,0.675,0.582,9,-8.891,1,0.0277,0.661,5.56e-06,0.0854,0.538,120.991,282973,4,0
+Asha Bhosle,"Hungama Ho Gaya (From ""Queen"") - Single","Hungama Ho Gaya (From ""Queen"")",4ZiH6RyMrw2vlgD6vrvzBd,38,0.624,0.847,8,-7.246,0,0.0455,0.103,0.202,0.284,0.507,138.059,271586,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),A Happy Family,3HQM5KOYe7GsnepMzzcrQW,30,0.357,0.103,9,-21.736,0,0.0357,0.834,0.792,0.352,0.0379,79.982,279136,4,1
+Various Artists,Vicky Donor,"Pani Da Rang Male (From ""Vicky Donor"")",6sfVSlvCl5evgokuWNrHbE,57,0.679,0.622,4,-8.514,0,0.0328,0.272,6.52e-05,0.106,0.483,98.028,240787,4,1
+A.R. Rahman,Delhi-6,Masakali,5iyNH1Dmxif1k4Nl1gMeuh,54,0.678,0.622,5,-7.988,0,0.0695,0.138,2.32e-06,0.122,0.535,100.005,288647,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Athenian Fighters,7w27EtpY7m9PpTkaUfsgjV,31,0.585,0.546,2,-13.846,1,0.0309,0.185,0.914,0.0646,0.226,130.03,239142,4,1
+Shankar-Ehsaan-Loy,Best of SEL,"Aaj Kal Zindagi (From ""Wake Up Sid "")",3uhMb1xevkSqoU8re2lVOQ,26,0.639,0.617,4,-8.897,1,0.0329,0.21,0.00558,0.099,0.405,134.95,254507,4,0
+Pritam,Yeh Jawaani Hai Deewani,Ghagra,5YY8EsBdUYAg1NJQIvgCEj,52,0.706,0.92,8,-5.208,1,0.172,0.222,0,0.319,0.696,101.94,304307,4,0
+Shaarib Toshi,"Bandeya (feat. Arijit Singh) [From ""Dil Juunglee""]","Bandeya (feat. Arijit Singh) - From ""Dil Juunglee""",6gwnKOvdBKkTU4CQ7KpIAu,60,0.465,0.551,7,-6.58,1,0.0362,0.619,6.03e-06,0.109,0.415,89.459,184666,4,1
+Breaking Benjamin,Dark Before Dawn,Ashes of Eden,7HjNOz8Y7H7uSySXuHNg1Y,63,0.241,0.534,3,-7.207,1,0.0321,0.0561,2.13e-06,0.103,0.277,159.974,293640,4,1
+Ayushmann Khurrana,Yahin Hoon Main,Yahin Hoon Main,30UWFQsrAfkzcsRWaiNLtU,48,0.633,0.558,3,-6.572,1,0.0275,0.0839,1.1e-06,0.0982,0.501,110.012,238121,4,0
+Various Artists,Sarbjit,Salamat,1SRUb3cwUSuQmkRFTIoWM0,56,0.44,0.57,4,-7.101,0,0.0303,0.851,0.00367,0.168,0.202,120.807,269997,4,1
+Pritam,Love Aaj Kal,"Twist (From ""Love Aaj Kal"")",5PatlLJYn8gWxnQnepzMjW,44,0.721,0.944,7,-4.995,1,0.142,0.0393,5.86e-05,0.0747,0.728,109.014,299440,4,0
+Hyper,We Control,We Control,7iNN6Mv9iW9eRnaG0srOFh,47,0.562,0.819,2,-6.674,1,0.0432,4.13e-05,0.118,0.433,0.476,133.014,201360,4,1
+Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Bin Tere,3bZPdEskcnMdepwCaDSJRl,57,0.585,0.698,9,-6.261,1,0.0392,0.42,3.59e-06,0.363,0.621,139.831,330360,4,1
+Pritam,Chhichhore,Khairiyat,5O932cZmzOZGOGZz9RHx20,72,0.524,0.48,0,-9.017,0,0.0426,0.696,0,0.142,0.285,124.879,280282,4,1
+Vishal-Shekhar,Bang Bang (Original Motion Picture Soundtrack),Tu Meri,39TJkE0AEkfWii8VB3JqSV,40,0.679,0.688,8,-5.522,1,0.0293,0.0773,0,0.704,0.424,127.951,257089,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Leonidas Fallen,0xtiezchZLHnDXxPzSU4Yl,28,0.161,0.258,2,-17.747,1,0.0492,0.211,0.709,0.14,0.0346,130.514,140199,3,1
+Five Finger Death Punch,American Capitalist (Deluxe),Remember Everything,4G2GSsAneHpcG5J8cKGXyw,55,0.368,0.824,1,-4.07,0,0.0401,0.00943,0,0.11,0.12,161.974,278813,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),"Athens, Birthplace of Democracy",3rhzaKqPxcLmRIvMHx8iZd,28,0.404,0.157,9,-15.011,0,0.0296,0.961,0.841,0.072,0.0372,81.846,64080,4,1
+Tanishk Bagchi,"Makhna (From ""Drive"")",Makhna,0ZHILXmUaVSLEOCWxPQ1ga,72,0.696,0.704,1,-7.876,1,0.0423,0.167,0,0.155,0.426,124.972,183000,4,0
+Pritam,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition],Cutiepie,7hXnhouVPnOnFwCGrQMHvB,60,0.799,0.929,0,-3.231,0,0.0668,0.253,0.000462,0.24,0.952,127.999,231562,4,1
+Ayushmann Khurrana,Latest Songs Of Ayushmann Khurrana,Saadi Galli Aaja,0qVNxbFE4EUV3mNFodXiln,37,0.739,0.836,2,-5.155,1,0.0325,0.195,3.64e-06,0.197,0.677,109.011,253417,4,1
+Various Artists,Jolly Ll.B 2,Bawara Mann,43wLf5iwEFm65mp6K06kVy,53,0.474,0.454,8,-8.334,1,0.0259,0.678,0.00175,0.313,0.338,85.046,216073,4,1
+Pritam,Love Aaj Kal,"Chor Bazari (From ""Love Aaj Kal "")",0SxjmKamCaXEBwuQdiMxor,40,0.824,0.757,11,-5.047,1,0.0743,0.368,0.000111,0.146,0.97,100.027,257440,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Secret Land of Apollo,0I9MTSF24UHsYZX1BlAnSI,30,0.173,0.218,2,-19.306,0,0.0444,0.965,0.857,0.0846,0.0355,122.058,109454,4,1
+3 Doors Down,Away From The Sun,When I'm Gone,3WbphvawbMZ8FyqDxYGdSQ,69,0.53,0.768,7,-5.611,1,0.0284,0.00385,0,0.103,0.374,148.095,260333,4,1
+Shinedown,Leave a Whisper (Deluxe Edition),45,420JGkyLfLUZcgBHKiIK9v,67,0.446,0.657,7,-4.494,1,0.0262,0.0022,0,0.189,0.215,152.132,250093,3,1
+Shinedown,Leave a Whisper (Deluxe Edition),Simple Man - Rock Version,6WXdlIUbsqFSS6T63eCBxx,60,0.532,0.625,7,-4.95,1,0.0293,0.064,0,0.223,0.225,120.853,265800,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Kephallonia Island,1oW1bLKBj5ELK1C8BJ3dYQ,36,0.546,0.0618,9,-15.136,0,0.0347,0.983,0.35,0.0802,0.128,77.917,127267,4,1
+Amaal Mallik,M.S.Dhoni - The Untold Story,Jab Tak,35RWttZt8zGGzT0mWtlXpn,60,0.299,0.447,3,-7.862,0,0.0383,0.858,0.000314,0.097,0.321,121.723,174039,4,1
+Arijit Singh,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")","Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",2Fv2injs4qAm8mJBGaxVKU,68,0.427,0.396,11,-7.556,1,0.0366,0.736,0,0.11,0.306,70.368,284780,4,1
+Red,End Of Silence,Pieces,43khiAjVYp8XK8yB4pMfOk,45,0.283,0.354,8,-11.552,0,0.0288,0.344,0.000245,0.0758,0.0644,93.02,358373,4,0
+Shankar-Ehsaan-Loy,Dil Dhadakne Do,Gallan Goodiyaan,7hNYvX0qAKrxtVr1jGDmvR,58,0.83,0.858,6,-3.18,0,0.0554,0.134,1.72e-05,0.0567,0.949,119.974,296500,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Korinth,41wyGaKXh7zU2e49sDwAkL,30,0.619,0.46,9,-10.6,1,0.0266,0.296,0.951,0.115,0.121,112.963,58775,1,1
+Pritam,Kalank,Kalank (Title Track),6vo7Y1iWyZvpjvFbf6BiZ5,66,0.57,0.55,10,-8.343,1,0.035,0.524,3.73e-05,0.0921,0.435,117.999,311186,4,1
+Rochak Kohli,Aiyaary,Lae Dooba,4cNbz1UdBCrnGOg0NNP1iF,61,0.569,0.297,6,-8.639,1,0.0292,0.879,0,0.0938,0.466,89.96,229878,4,0
+Stone Sour,Audio Secrecy (Special Edition),Hesitate,0vgpbEfkcUF09VNkcrQRWi,49,0.448,0.805,10,-4.194,1,0.0365,0.000946,6.12e-05,0.134,0.201,125.998,256347,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Barnabas,55hGrn3yRc1S6WK6xULYmc,33,0.702,0.172,7,-15.417,1,0.0636,0.827,0.911,0.0845,0.435,159.932,76901,3,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Pandora’s Cove,5T2xUY5LjdM5Y7FTBkYwdF,26,0.2,0.278,2,-19.147,0,0.0364,0.889,0.934,0.108,0.0703,148.025,114847,4,1
+Ved Sharma,"Malang (Title Track) [From ""Malang - Unleash The Madness""]","Malang (Title Track) [From ""Malang - Unleash The Madness""]",25MPTnqXQB1H6OkwSYUXWx,69,0.384,0.728,7,-6.503,0,0.0623,0.329,1.85e-05,0.329,0.311,156.396,287374,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Sokrates,5ZGmOoCNiuFYKf0MrTeKuy,29,0.731,0.152,0,-14.089,1,0.0489,0.851,0.851,0.118,0.0785,95.961,75960,4,1
+Vishal-Shekhar,Best of Me Vishal Shekhar,"Jaane Kyun (From ""Dostana"")",4w90JoFrkoYfxe4S8DWD7T,44,0.778,0.812,4,-8.561,0,0.046,0.0573,8.28e-06,0.243,0.791,99.962,277987,4,1
+Shankar-Ehsaan-Loy,Karthik Calling Karthik,Uff Teri Adaa,0og9wKFGgFFNQnrBe7eisG,60,0.647,0.792,2,-9.815,1,0.0373,0.00536,5.82e-05,0.054,0.306,132.032,304089,4,0
+A.R. Rahman,Rang De Basanti (Original Motion Picture Soundtrack),Masti Ki Paathshala,2cZ2Q33G9mkS8fIVKM591T,41,0.845,0.686,7,-6.728,1,0.0781,0.00131,5.35e-05,0.129,0.874,146.954,219853,4,1
+Tulsi Kumar,Tere Naal,Tere Naal,2Vw94w6FxCyaYwyCivi9Py,67,0.315,0.491,11,-7.0,1,0.0311,0.748,0,0.128,0.245,109.966,198345,4,0
+Various Artists,Badrinath Ki Dulhania,Humsafar,6TFESXMfJJWwccviaxGAMa,60,0.319,0.552,7,-6.401,1,0.0307,0.719,0,0.144,0.221,93.991,268463,4,0
+Alazka,Empty Throne (Acoustic),Empty Throne - Acoustic,6ENH2r9VtuBrPmAV5R7t1f,41,0.561,0.352,3,-10.151,1,0.0247,0.608,0,0.23,0.266,99.966,295800,4,0
+Rochak Kohli,"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")","Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",57jOEZtoLQK4zF2x55bdkp,71,0.718,0.382,7,-8.237,1,0.0466,0.585,0,0.128,0.499,87.029,200992,4,1
+Various Artists,Kesari,Ve Maahi,4t1DkxexoMbIHfSHS4Uiyr,66,0.65,0.551,0,-6.906,1,0.0274,0.405,0,0.219,0.294,102.934,223999,4,1
+Salim–Sulaiman,Kurbaan (Original Motion Picture Soundtrack),Shukran Allah,3nKEiJUeaWn8q2O9I1xwlB,60,0.432,0.695,1,-8.022,1,0.111,0.732,0.0014,0.274,0.513,116.153,290053,3,1
+Sanjay Leela Bhansali,Bajirao Mastani (Original Motion Picture Soundtrack),"Malhari (From ""Bajirao Mastani"")",7EvAlx0lOLbZgCKH50wnUU,49,0.507,0.932,1,-4.501,0,0.0762,0.0592,0,0.302,0.311,114.961,244048,3,1
+Shankar-Ehsaan-Loy,Wake Up Sid (Original Motion Picture Soundtrack),Iktara,3jtKSUiVDowKNBqVQbWaig,50,0.616,0.525,7,-7.065,1,0.0258,0.401,0.000484,0.309,0.427,79.976,253773,4,1
+Pritam,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack),The Breakup Song,7BjQd0sfYsMGVrTpRdBNTT,53,0.818,0.93,11,-2.982,1,0.247,0.33,0,0.658,0.831,113.988,252632,4,0
+Sachet Tandon,"Mere Sohneya (From ""Kabir Singh"")","Mere Sohneya (From ""Kabir Singh"")",2IoZMG3RqiTmsy7Li3zGFg,58,0.376,0.643,9,-5.713,1,0.0411,0.558,0,0.217,0.646,136.224,193356,5,1
+EA Games Soundtrack,"EA Sports Soundtrax, Vol. 1",I Am Rock,3R2QHJmKqXTHF5ig3Nm0Kb,0,0.651,0.543,6,-8.638,1,0.247,0.0135,0,0.274,0.635,91.691,230827,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Hills of Attika,0A6ZCAv9N2sjqVBJdilH41,32,0.559,0.115,4,-19.927,0,0.0245,0.819,0.931,0.0916,0.092,94.999,155552,4,1
+Celldweller,Celldweller 10 Year Anniversary (Deluxe Edition),Shapeshifter,46hNK8wLZGxviapoZuI6bc,0,0.622,0.956,6,-3.658,1,0.133,0.00268,0,0.394,0.557,115.963,217226,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Medusa,7LBa9eh4Bi9dfl7dTJ7eq8,26,0.39,0.939,8,-10.763,1,0.0807,0.0533,0.912,0.0592,0.0966,179.922,200455,4,1
+Five Finger Death Punch,War is the Answer,Far From Home,70WpP83384wgKixTKbt3Nb,56,0.464,0.688,11,-5.352,0,0.0298,0.00149,3.85e-06,0.169,0.228,137.882,212493,4,1
+Meet Bros.,Befikra,Befikra,06wTXKpDMrSp5OfB7MErpx,54,0.6,0.979,10,-3.513,1,0.243,0.138,0,0.1,0.453,137.064,351579,4,0
+Sanjay Leela Bhansali,Ram-Leela (Original Motion Picture Soundtrack),Nagada Sang Dhol,4ila6GeGBPGmJTGRoHOV5E,0,0.73,0.944,3,-3.48,0,0.164,0.266,0.00443,0.0354,0.657,113.309,273319,3,0
+Pritam,Love Aaj Kal,"Chor Bazari (From ""Love Aaj Kal "")",6XE0MxTJdLWEePTCqAw5xr,49,0.824,0.757,11,-5.047,1,0.0743,0.368,0.000111,0.146,0.97,100.027,257440,4,0
+Pritam,Yeh Jawaani Hai Deewani,Kabira (Encore),3jJ5HgLRNydtLRghjWVaCG,58,0.613,0.612,2,-7.978,1,0.114,0.438,0,0.18,0.898,171.838,270439,4,0
+Pritam,Desi Boyz,Subha Hone Na De,6WediUhXDfm8FR3wlM0r3G,59,0.728,0.9,8,-4.529,1,0.0452,0.0805,0.0485,0.154,0.503,131.971,288696,4,0
+Vishal-Shekhar,Student of the Year (Original Motion Picture Soundtrack),Radha,6f7zyAEUCZuvX4Zty62Z5o,53,0.804,0.748,1,-14.163,0,0.0616,0.11,0,0.0998,0.699,131.989,341360,4,0
+Various Artists,Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack),Buddhu Sa Mann,1dxbiVeiV7nQ2V9qXnhJiB,59,0.644,0.87,10,-4.816,1,0.0394,0.193,0,0.549,0.702,125.998,206858,4,1
+Sanjay Leela Bhansali,Bajirao Mastani (Original Motion Picture Soundtrack),"Pinga (From ""Bajirao Mastani"")",40L4hEqXt6myCk6VcB9bDq,41,0.644,0.84,9,-3.753,1,0.172,0.39,0,0.246,0.818,95.11,255169,4,0
+Various Artists,New York (Original),Hai Junoon,5u4q3iqZ9IMbXaR7bsGYbW,51,0.739,0.664,2,-10.582,1,0.0338,0.539,1.14e-06,0.0856,0.878,106.021,331572,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Legendary Heirloom,1PFIg98ePbWxSBV2HXVw2t,29,0.182,0.181,9,-15.306,0,0.0348,0.954,0.934,0.076,0.0334,80.422,127903,4,1
+Smash Into Pieces,Unbreakable,Here to Stay,483Q9F18uvWW8AchyDNRye,43,0.497,0.706,4,-5.978,1,0.0309,0.0368,0,0.237,0.212,134.081,259227,4,0
+A.R. Rahman,Tamasha,Safarnama,6w458kA8WOAIZr1ublxnK9,58,0.541,0.512,9,-10.203,1,0.0291,0.74,0.000528,0.162,0.203,120.036,251402,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Revenge of the Wolves,2sRQSZKRzQwXEC8dIztx2O,32,0.545,0.535,9,-13.902,1,0.0392,0.227,0.817,0.0931,0.302,129.979,132358,4,1
+Various Artists,"Duniyaa (From ""Luka Chuppi"")","Duniyaa (From ""Luka Chuppi"")",2tjWCe2W7sgvS3C8NHcdtI,68,0.435,0.658,7,-5.949,0,0.0368,0.699,0,0.125,0.524,77.17,222501,4,1
+P$C,25 To Life (83804/edited version),Do Ya Thing (feat. Young Dro),5ZcmLAogrj4HF8Odrz9XA2,47,0.754,0.763,1,-6.57,1,0.295,0.32,0,0.143,0.704,159.963,265693,3,1
+Vishal-Shekhar,Best of Me Vishal Shekhar,"Jaane Kyun (From ""Dostana"")",4w90JoFrkoYfxe4S8DWD7T,44,0.778,0.812,4,-8.561,0,0.046,0.0573,8.28e-06,0.243,0.791,99.962,277987,4,0
+Shankar-Ehsaan-Loy,Bhaag Milkha Bhaag (Original Motion Picture Soundtrack),Zinda,7vZz8oJ5qAqB9MghufRK5k,56,0.603,0.708,4,-7.047,0,0.0379,0.000173,3.36e-06,0.158,0.611,105.046,211120,4,1
+Pritam,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition],Channa Mereya,0H2iJVgorRR0ZFgRqGUjUM,64,0.476,0.788,9,-4.821,0,0.0446,0.237,2.49e-05,0.106,0.746,90.066,289333,4,1
+Shankar-Ehsaan-Loy,Dil Dhadakne Do,Gallan Goodiyaan,7hNYvX0qAKrxtVr1jGDmvR,58,0.83,0.858,6,-3.18,0,0.0554,0.134,1.72e-05,0.0567,0.949,119.974,296500,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Petrified Temple,06SzTgzSCTZoGFpCCGvqsn,26,0.0918,0.26,10,-21.513,1,0.0435,0.708,0.905,0.109,0.0379,74.004,113177,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Assassin's Creed,0DOQ9U9j374KJ5JVZRF44u,47,0.455,0.3,2,-13.285,0,0.0309,0.536,0.784,0.129,0.145,114.931,174633,4,1
+Darshan Raval,"Chogada (From ""Loveyatri"")","Chogada (From ""Loveyatri"")",4ymPEyiXabTe1NO8q8EFxG,61,0.359,0.972,7,-3.452,1,0.109,0.136,2.52e-06,0.14,0.595,62.914,249742,4,0
+Ajay-Atul,Dhadak,Dhadak Title Track,6Gx3Ry4ORogdMibbdITOuN,52,0.375,0.312,7,-10.656,0,0.031,0.85,0.00988,0.137,0.22,77.527,243484,4,1
+Amit Trivedi,Kedarnath,Qaafirana,0xkGTPTijMU84dtHr3KQQi,67,0.417,0.433,4,-8.958,1,0.0415,0.0726,0,0.123,0.207,169.92,341823,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),A Spartan Fight,3ZbSSr2L0BCFPwcqOJvtgm,29,0.592,0.657,4,-11.064,1,0.0273,0.231,0.947,0.254,0.631,145.006,234897,4,1
+Karan Sehmbi,"Photo (From ""Luka Chuppi"")","Photo (From ""Luka Chuppi"")",5wdlz4N7s1Xyr4y4RXhZJM,61,0.739,0.644,0,-5.881,0,0.0503,0.103,0,0.189,0.315,94.996,177159,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Phoibe’s Fate,3HzKB1FMGBFpI5Ct2Hb6ZN,27,0.16,0.14,2,-16.53,0,0.0428,0.991,0.733,0.0781,0.0361,107.985,72631,4,1
+Theory of a Deadman,Savages,Angel,2qJkesdHu9sMMVFgkRkqhQ,67,0.443,0.844,11,-5.414,0,0.0425,0.00251,0,0.085,0.452,76.001,202213,4,1
+Vishal-Shekhar,Dus,Dus Bahane,1vBmaijoCBoqmwc3zs5n3s,50,0.833,0.917,7,-5.498,1,0.0597,0.175,1.92e-06,0.109,0.874,110.001,206947,4,0
+Amaal Mallik,Airlift,Soch Na Sake,6mTvwBzWTGDOVeCNQEqtOE,63,0.505,0.667,9,-5.797,1,0.0323,0.597,0,0.213,0.516,151.728,281323,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Naxos Island,3eCBjOjOffmLEJEulGWzNW,29,0.418,0.278,7,-16.686,0,0.0347,0.886,0.413,0.128,0.311,143.9,90419,3,1
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Khaabon Ke Parinday,14eotumM24MhIgzidgN3Jx,57,0.517,0.565,9,-10.184,1,0.0441,0.721,0.00689,0.0997,0.69,169.952,251704,4,0
+Various Artists,"Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's ""Devdas""",Song: Dola Re,1UV1ej70vDBIdPUEJ40ZG1,46,0.65,0.912,4,-5.898,0,0.186,0.191,0,0.38,0.546,130.906,303387,4,0
+Arijit Singh,"Pal Pal Dil Ke Paas- Title Track (From ""Pal Pal Dil Ke Paas"")",Pal Pal Dil Ke Paas- Title Track,7lGhrfren1Zpwh0ds0zuUg,67,0.56,0.512,1,-7.185,0,0.0333,0.592,0,0.056,0.39,123.991,254516,4,1
+Various Artists,Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack),Bolna,7zn5ecZSwGsLTi1wgxyVzd,51,0.488,0.403,5,-7.004,1,0.0272,0.598,4.26e-06,0.434,0.495,131.496,212832,3,1
+Pritam,Love Aaj Kal (Original Motion Picture Soundtrack),Shayad,1smFN2CLqGROu0J0UyvDfL,70,0.483,0.468,8,-7.642,1,0.0341,0.785,0,0.152,0.319,135.864,247941,4,1
+Vishal-Shekhar,Student of the Year (Original Motion Picture Soundtrack),Ishq Wala Love,1hQia6rxgfM1ly2hE3StWp,61,0.711,0.295,0,-12.377,0,0.0334,0.533,4.8e-05,0.0782,0.694,135.048,257973,4,0
+Prateek Kuhad,Tum Jab Paas - Single,Tum Jab Paas,3FTRSa9mWB3kKx2jkhUAN3,59,0.751,0.344,6,-7.712,1,0.0379,0.528,1.62e-06,0.113,0.471,122.1,235932,3,0
+Mastodon,Leviathan,Blood and Thunder,3jagGO7eHHuaD53ibehkux,61,0.364,0.935,2,-6.548,1,0.0724,8.58e-06,0.729,0.0317,0.478,92.717,228587,4,1
+Amit Trivedi,Andhadhun,Laila Laila,46BADgUUo31SIxYsNzadeO,46,0.847,0.768,4,-5.479,1,0.0335,0.432,0.000433,0.104,0.682,120.058,203375,4,0
+Fame on Fire,Heavy (feat. Rain Paris),Heavy (feat. Rain Paris),0RF1gbstmvYLLM7Emjxezx,43,0.495,0.922,10,-3.659,1,0.0816,0.00312,0,0.399,0.589,74.963,177600,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Brasidas,14c1jEDPUqMfALnxeQjZdW,28,0.604,0.156,2,-14.015,0,0.0684,0.495,0.00491,0.252,0.223,169.981,74925,4,1
+Pritam,Yeh Jawaani Hai Deewani,Dilliwaali Girlfriend,3W1XPf7mvuQcWQB7U7MbTM,55,0.688,0.941,6,-5.23,0,0.0583,0.0811,2.89e-06,0.0697,0.909,138.047,260552,4,1
+A.R. Rahman,Jaane Tu... Ya Jaane Na,Kahin To,3E424W0IJS3ypZ4YOxE0Jn,57,0.61,0.492,10,-7.55,1,0.0261,0.334,6.3e-06,0.0979,0.165,90.984,303206,4,1
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Der Lagi Lekin,78HEXs4YB5SE9JgTHOUdDw,50,0.637,0.675,2,-7.817,1,0.0296,0.0483,0.00261,0.125,0.21,110.946,355915,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Minotaur,4WLCCcueqomtSzVAUD7FtD,26,0.31,0.622,0,-13.395,0,0.0565,0.471,0.903,0.112,0.122,137.861,206241,4,1
+Ali Zafar,"London, Paris, New York (Original Motion Picture Soundtrack)",Voh Dekhnay Mein,0EMYTe2oQy70PCKPQFlbVy,49,0.815,0.421,0,-8.125,1,0.0352,0.491,4.41e-06,0.117,0.543,140.01,272453,4,0
+Various Artists,Gully Boy,Train Song,6SQDhaDMwLeRGHfyLb00d4,48,0.397,0.684,8,-10.014,1,0.0419,0.0486,0.0075,0.11,0.87,63.047,238930,4,0
+Demon Hunter,True Defiance (Deluxe Edition),I Am a Stone,5dLdWFruHNzWAkRWQMi9A6,46,0.546,0.419,7,-9.198,1,0.0267,0.387,4.01e-06,0.139,0.266,112.107,346013,4,1
+Various Artists,Baar Baar Dekho (Original Motion Picture Soundtrack),Kho Gaye Hum Kahan,6nZiYSBwPQ7fYnVWkkkj4g,66,0.778,0.227,1,-16.191,1,0.0379,0.983,0.14,0.113,0.38,116.033,213056,4,0
+I Prevail,Lifelines,Alone,6c9xVWbPeVPgrmWTYYeMTr,60,0.539,0.746,6,-5.242,0,0.036,0.00324,5.08e-06,0.085,0.287,118.994,221000,4,0
+Amit Trivedi,Aisha (Original Motion Picture Soundtrack),Gal Mitthi Mitthi,4J9n7thOdqi8gxRGNyQoVC,52,0.906,0.699,0,-5.526,1,0.0462,0.13,0.0165,0.178,0.938,129.946,255907,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Sanctuary of Apollo,7FhMwD06jNDQoN36KwSEiv,27,0.641,0.494,7,-13.69,0,0.0245,0.373,0.864,0.0904,0.502,85.016,59911,1,1
+Various Artists,Baaghi,Sab Tera,5uUEytfFSWfTzu5EqZxQju,47,0.505,0.642,7,-5.864,1,0.0339,0.643,0,0.151,0.427,159.775,228117,4,1
+Rahat Fateh Ali Khan,"Tere Bin (From ""Simmba"")","Tere Bin (From ""Simmba"")",4f5kLqyOJ5ZPnalEVMQrB2,57,0.649,0.716,7,-3.936,1,0.0384,0.268,4.51e-06,0.603,0.639,86.949,230948,4,0
+Darshan Raval,Baarish Lete Aana - Single,Baarish Lete Aana,1TEV1XrPtV617Y4Po50P5e,1,0.537,0.351,2,-8.937,1,0.0248,0.839,0,0.108,0.315,67.018,213500,4,0
+Shankar-Ehsaan-Loy,Wake Up Sid (Original Motion Picture Soundtrack),Wake Up Sid!,4BJI0anpEdv4uUw3fUXYpr,42,0.72,0.651,2,-6.844,1,0.0346,0.0774,0,0.11,0.824,128.023,231240,4,0
+Pritam,Yeh Jawaani Hai Deewani,Badtameez Dil,4eu27jAU2bbnyHUC3G75U8,58,0.805,0.932,2,-2.228,0,0.0684,0.24,0,0.216,0.792,106.019,252760,4,1
+Disturbed,Evolution (Deluxe Edition),A Reason to Fight,1IbaGRC0Yrovu3MP1ipf1u,60,0.591,0.571,6,-5.573,0,0.0248,0.0158,0,0.13,0.26,75.04,284293,4,1
+Our Lady Peace,Gravity,Not Enough,67HArfTf0CNIrNDwrHgEvG,40,0.443,0.895,1,-5.058,0,0.0986,0.000255,0,0.0842,0.171,76.145,273627,4,0
+Vishal-Shekhar,Best of Me Vishal Shekhar,"Khabar Nahi (From ""Dostana"")",0PkPrsnbiM1MQhp91IWaMb,36,0.623,0.758,7,-6.641,1,0.109,0.153,0,0.0622,0.436,90.948,259120,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Atlantis,359npuuS7dKXyqjfArYJPm,28,0.225,0.28,2,-18.551,1,0.0344,0.636,0.909,0.0999,0.0357,99.42,100668,4,1
+Seether,Disclaimer II,Broken,507bYMYfbm6sUS9iEAaeSd,69,0.448,0.61,3,-2.695,0,0.0342,0.0102,0.000491,0.135,0.214,123.762,258333,4,0
+Vishal-Shekhar,Anjaana Anjaani,Hairat,6512hyAQxOng8v4R71IV47,52,0.618,0.765,9,-5.492,0,0.0661,0.0111,0.000363,0.122,0.439,104.004,247072,4,1
+Shankar-Ehsaan-Loy,Rock On,Pichle Saat Dinon Mein (Album Version),1QQqHS80CpR8tA2lR8O65y,46,0.717,0.772,7,-5.852,1,0.0522,0.346,1.05e-06,0.134,0.792,106.077,187942,4,0
+Vishal-Shekhar,Break Ke Baad,Dooriyan Hain Zaroori,0VgggdMuIsDLjOlEFS6WQU,39,0.642,0.862,4,-5.289,1,0.0644,0.0346,2.7e-06,0.537,0.566,125.053,249242,4,1
+Alter Bridge,One Day Remains,In Loving Memory,0T9tbj6zsRKLiUx06sbOWX,56,0.304,0.637,6,-5.922,1,0.0334,0.00749,6.44e-05,0.216,0.174,140.498,340107,4,1
+Darshan Raval,Hawa Banke - Single,Hawa Banke,3YVQHUpNexOqkLI7IclsoT,0,0.626,0.597,7,-6.6,0,0.0366,0.616,0,0.298,0.5,90.053,171988,4,0
+Pritam,Yeh Jawaani Hai Deewani,Ilahi,5cgKosPPj5Cs9a2JQufUc1,57,0.594,0.967,9,-5.767,1,0.0857,0.166,2.54e-05,0.105,0.452,132.009,228982,4,1
+Payal Dev,"Tum Hi Aana (From ""Marjaavaan"")","Tum Hi Aana (From ""Marjaavaan"")",6E9UwSfT80age2xknoMS7Y,69,0.473,0.401,4,-7.018,0,0.0241,0.629,1.17e-05,0.154,0.345,90.076,249127,4,0
+Amaal Mallik,Ghar Se Nikalte Hi,Ghar Se Nikalte Hi (feat. Armaan Malik),1Dw8GkFpFjUpNTUpfF5lee,48,0.591,0.462,5,-9.77,1,0.0281,0.64,6.44e-05,0.108,0.323,114.02,282687,4,0
+Saliva,Lose Yourself,Lose Yourself,1agG3Jk8tLM0igL8lEAJBs,56,0.437,0.911,7,-5.524,1,0.0825,0.00023,2.13e-06,0.239,0.568,172.046,264011,4,1
+Jawad Ahmad,Samjhawan,Samjhawan,0rk2X5TAhraBC5aCIXK2Rq,60,0.65,0.482,4,-8.667,1,0.0281,0.293,0,0.0811,0.517,106.994,269185,4,1
+ILS,Bohemia,Feed The Addiction,23AUyZevDLz3pwkICwIJa0,0,0.585,0.887,1,-6.485,1,0.0422,0.000171,0.813,0.554,0.212,134.884,278280,4,0
+Darshan Raval,Asal Mein - Single,Asal Mein,1StFDfq4raRws97W8Wb3QS,43,0.656,0.551,8,-6.43,1,0.0299,0.721,1.26e-06,0.0947,0.33,114.108,224240,4,0
+Armaan Malik,2016 Shinning Star - Armaan Malik,"Kuch To Hai (From ""Do Lafzon Ki Kahani"")",4Itl3EiMmB9S4VNiRQTHHz,50,0.487,0.321,4,-10.915,0,0.0261,0.793,0.000242,0.166,0.202,95.001,248105,4,1
+Armaan Malik,Main Rahoon Ya Na Rahoon,Main Rahoon Ya Na Rahoon,6f3ANRNQ8nCiPZ6VqXqq93,59,0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,309458,3,1
+Jeet Gannguli,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Hasi - Female Version,1cmZbGkCEVVAck2MsWpPYQ,58,0.52,0.485,4,-6.438,0,0.0269,0.927,0.000466,0.159,0.407,143.901,192187,4,0
+Pritam,Love Aaj Kal (Original Motion Picture Soundtrack),Mehrama - Extended,3Oel2uKhw6SBwZ5SfRCD6r,51,0.55,0.632,7,-8.462,1,0.031,0.862,0.00712,0.0931,0.399,107.919,337749,4,1
+Vishal-Shekhar,Hasee Toh Phasee (Original Motion Picture Soundtrack),Punjabi Wedding Song,69iDTIABXobqbl8zJOp8dq,48,0.845,0.845,6,-7.083,0,0.116,0.157,0,0.034,0.769,106.965,233920,4,0
+Pritam,Cocktail,"Daaru Desi (From ""Cocktail"")",1R7ChEm1x3mGhDWXKnPSXn,39,0.703,0.786,8,-6.779,0,0.0483,0.198,0.000712,0.101,0.647,93.987,269590,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Delphi,12ut2LBYU9hFCAyp0gn47V,30,0.297,0.416,7,-14.919,0,0.0383,0.831,0.966,0.0618,0.0771,99.927,66426,4,1
+Shankar-Ehsaan-Loy,Rock On,Socha Hai,7IjnfuMNfdrAXbefurdIIR,48,0.593,0.773,2,-5.591,1,0.0339,0.722,0,0.117,0.561,133.975,246132,4,0
+Hush,Bulletproof (Explicit Version),Fired Up,7zj2M8S47CAtakF6QnbDBA,0,0.836,0.806,0,-5.097,1,0.185,0.028,0,0.108,0.549,89.968,206227,4,1
+Styles Of Beyond,Grant Mohrman Remixes,Nine Thou (Grant Mohrman Superstars Remix) (Clean),5yT7P2ZY99C373vtcYWVHx,21,0.647,0.907,1,-5.612,1,0.085,0.00178,0,0.255,0.571,107.896,243427,4,1
+Amaal Mallik,"Chale Aana (From ""De De Pyaar De"")","Chale Aana (From ""De De Pyaar De"")",6vuMdb0E8buJeSHArN3dXk,61,0.368,0.587,6,-6.676,0,0.0378,0.309,0,0.149,0.391,143.687,271023,4,1
+Alter Bridge,Blackbird,Watch Over You,7kxfWvj6u9oWQ5C36kMtGb,62,0.276,0.658,7,-5.418,1,0.0329,0.0836,0.000553,0.161,0.16,172.326,259133,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Reunited,4I9FkxRNPV7FpBIiVVwdto,28,0.172,0.0762,2,-21.622,0,0.0448,0.915,0.655,0.0764,0.0368,118.484,131776,3,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Nikolaos’s Fate,6NjyI68EDUzz0irhTMzd0Y,28,0.105,0.107,7,-21.869,0,0.0309,0.556,0.971,0.295,0.0516,83.353,106242,5,1
+Darshan Raval,Bhula Dunga,Bhula Dunga,7pmY8QjqZP8GRV6qBRpheu,60,0.521,0.583,0,-7.927,0,0.0399,0.692,6.32e-06,0.198,0.311,155.928,197601,4,0
+A.R. Rahman,OK Jaanu (Original Motion Picture Soundtrack),Enna Sona,6bdpj89aYEBjhpsenXAsmO,63,0.717,0.416,7,-9.875,0,0.0303,0.635,1.43e-06,0.0976,0.381,100.026,213632,4,0
+Various Artists,Kalyug,Aadat,0aw0G0Mjw8hOgLWFuE24jM,0,0.439,0.748,0,-6.56,0,0.0436,0.172,0.000642,0.295,0.353,102.861,333587,4,0
+Shankar-Ehsaan-Loy,Taare Zameen Par,Kholo Kholo,1IfhPnZpm0IZOoAM1PDjtw,49,0.539,0.313,11,-10.99,0,0.0337,0.0688,1.65e-05,0.0935,0.239,169.863,311986,4,1
+Pritam,Yeh Jawaani Hai Deewani,Kabira,4bD9z9qa4qg9BhryvYWB7c,66,0.59,0.555,2,-6.852,1,0.0271,0.481,0,0.192,0.191,84.032,223460,4,0
+Shankar-Ehsaan-Loy,Rock On,Rock On!!,6fABlNfAOylt7ZxfX8K1XL,49,0.747,0.849,7,-5.916,1,0.0581,0.175,1.23e-06,0.126,0.671,113.034,231819,4,0
+Vishal-Shekhar,Best of Me Vishal Shekhar,"Desi Girl (From ""Dostana"")",5yDtBUvjNse5mr5887lj59,48,0.746,0.924,8,-6.057,1,0.0442,0.0169,0.00279,0.097,0.807,136.051,306987,4,0
+Beartooth,Aggressive (Deluxe Edition),Hated (Acoustic Version),0PHrdruYGBzeOZH43A9QG8,48,0.517,0.362,0,-9.598,1,0.0271,0.157,4.76e-06,0.0536,0.586,77.542,171000,4,0
+Various Artists,Vicky Donor,"Pani Da Rang Male (From ""Vicky Donor"")",6eTPyEkYUmDUFvNxJdNuOD,49,0.679,0.622,4,-8.514,0,0.0328,0.272,6.52e-05,0.106,0.483,98.028,240787,4,1
+Vishal-Shekhar,Om Shanti Om,Dard - E - Disco,2GTasAZimpxzNgE7aXFifI,48,0.837,0.839,11,-5.548,1,0.0468,0.0381,0.000193,0.301,0.679,107.025,268713,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Conversations,5VNghJt9twiuwPdJU4XreT,31,0.796,0.121,9,-16.155,0,0.0573,0.766,0.92,0.104,0.333,95.002,102856,4,1
+Jubin Nautiyal,Humnava Mere,Humnava Mere,0loZn1c5heXie7OAtvK6nH,62,0.401,0.553,5,-8.263,0,0.0337,0.47,2.96e-06,0.124,0.364,79.144,328992,4,1
+Akhil Sachdeva,"Tera Ban Jaunga Reprise (From ""T-Series Acoustics"")","Tera Ban Jaunga Reprise (From ""T-Series Acoustics"")",2I7LHHFgXku7VAVRkWdJAU,48,0.51,0.479,8,-7.52,0,0.0257,0.786,0.0014,0.159,0.285,93.992,223555,4,0
+Seether,Poison The Parish (Deluxe Edition),Against The Wall,1SsIdDPzMotF4ByndP3mlI,43,0.426,0.567,2,-6.166,1,0.0323,0.0188,0.144,0.109,0.0734,140.005,230787,4,1
+DJ Spooky,B-Side Wins Again,B-Side Wins Again,0V3UJoNf9Gxv3bIEbezuPa,42,0.658,0.921,9,-6.134,1,0.154,0.0506,0,0.359,0.401,103.963,339587,4,0
+Disturbed,Ten Thousand Fists,Forgiven,2UiFk0Fwy2gTWJShgQL8el,44,0.473,0.969,9,-2.973,0,0.148,0.000137,0.378,0.111,0.341,93.948,252053,4,1
+Vilen,Chidiya,Chidiya,7mNZUnDWUDidWBFaUpVtOC,70,0.486,0.494,6,-8.56,1,0.0324,0.715,0,0.109,0.414,179.975,253333,4,0
+Pritam,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition],The Breakup Song,5FihcmME7NlwW8KbYOaHVH,56,0.818,0.93,11,-2.982,1,0.247,0.33,0,0.658,0.831,113.988,252632,4,0
+Sixx:A.M.,Prayers for the Blessed,Maybe It's Time,474cWGKmOKwDTmMUAAF6kj,52,0.442,0.915,9,-3.646,0,0.0434,0.000828,2.05e-05,0.305,0.411,76.01,261787,4,0
+Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Bin Tere - Reprise,7zG4akZAie70mOCMmtoacS,40,0.452,0.249,0,-10.163,1,0.0299,0.876,2.3e-05,0.115,0.419,149.599,220147,4,1
+Pritam,Jab We Met,Aao Milo Chalo,6ocOeSjnWPcSTaSsi0zIdY,54,0.507,0.787,7,-5.947,0,0.061,0.412,0,0.323,0.49,114.875,325934,4,1
+Vishal-Shekhar,Dostana (Original Motion Picture Soundtrack),Jaane Kyun,6M2UnI1LnXuXlWU54CKmKx,52,0.778,0.812,4,-8.561,0,0.046,0.0573,8.28e-06,0.243,0.791,99.962,277987,4,0
+Stone Sour,Stone Sour,Bother,0AfIsqZ4gTUg9CwwW2jLeK,66,0.272,0.281,1,-7.634,1,0.0287,0.388,2.29e-05,0.158,0.141,89.914,240400,4,0
+Meet Bros.,"Kinna Sona (From ""Marjaavaan"")","Kinna Sona (From ""Marjaavaan"")",01AE1MgL6L86WQzh4KGDUa,61,0.533,0.723,3,-4.301,0,0.0614,0.283,0,0.0678,0.591,97.848,273926,4,0
+Pritam,Yeh Jawaani Hai Deewani,Subhanallah,0GQngE2rOYvlKwEQjTAsP8,62,0.302,0.494,9,-5.041,1,0.0451,0.452,0,0.134,0.454,88.586,249707,4,1
+Arjun Kanungo,Aaya Na Tu,Aaya Na Tu,3T0oPETOdddxJ2xTt2qJe4,61,0.665,0.539,11,-7.213,0,0.0474,0.825,5.85e-06,0.121,0.368,110.101,210000,4,0
+A.R. Rahman,Highway,Patakha Guddi,7jpmNt5iCtSdXuT1xEGp8O,52,0.814,0.791,11,-5.057,1,0.0934,0.25,0,0.124,0.902,130.941,285186,4,1
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Sooraj Ki Baahon Mein,723xQva0yBF7M6K3nDAG8R,56,0.855,0.553,11,-6.52,1,0.0331,0.19,5.19e-06,0.0942,0.874,124.922,202919,4,1
+Nikhil D'Souza,Waqt,Thode Se Kam,0DCNzgtYdpIhHqqJkA8D2E,43,0.58,0.183,3,-10.361,1,0.029,0.811,0.000163,0.0957,0.264,85.074,199483,4,0
+Pritam,Barfi! (Original Motion Picture Soundtrack),Main Kya Karoon,4GagsETs7qfR3cwQkRcXgb,52,0.784,0.453,9,-8.925,1,0.141,0.632,0.000502,0.102,0.667,91.013,270333,4,0
+P$C,25 To Life (83804/edited version),Do Ya Thing (feat. Young Dro),5ZcmLAogrj4HF8Odrz9XA2,47,0.754,0.763,1,-6.57,1,0.295,0.32,0,0.143,0.704,159.963,265693,3,0
+Various Artists,Perfect 10: Love Story,"Kuch Kam (From ""Dostana"")",1s16tKxNqpco6KKsd8JtSO,22,0.689,0.479,7,-9.932,1,0.0399,0.564,0.00252,0.137,0.524,144.0,340867,4,1
+Vilen,Ek Raat,Ek Raat,2jHicGSFIXm8dUdGz2wwzx,65,0.645,0.534,4,-5.428,0,0.0305,0.147,4.3e-06,0.0858,0.303,90.025,224040,4,0
+Vishal-Shekhar,"Tu Meri (From ""Bang Bang"")","Tu Meri (From ""Bang Bang"")",29GEhH79MHH2wzB7FXRQ2R,0,0.679,0.688,8,-5.522,1,0.0293,0.0773,0,0.704,0.424,127.951,257089,4,0
+Sanjay Leela Bhansali,Padmaavat,Ghoomar,3vJidBra6TBhO022fk6h8b,50,0.546,0.805,2,-7.417,1,0.126,0.397,0,0.337,0.742,168.022,282008,4,0
+Armaan Malik,Kyun Rabba (Badla),Kyun Rabba,68QwG6Ni1jFQc5Fit2iXp0,49,0.336,0.704,4,-7.928,0,0.0472,0.27,6.12e-05,0.107,0.361,151.779,292895,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Sparta,7HenQ1f5tfVFUi5X8enVrg,29,0.439,0.246,2,-12.202,1,0.0297,0.0742,0.725,0.284,0.232,69.975,64379,3,1
+Various Artists,"Dil Hi Toh Hai (From ""The Sky Is Pink"")",Dil Hi Toh Hai,0hpP2fBridGH2Bq6qmg9LM,59,0.482,0.694,0,-5.368,1,0.042,0.452,0,0.11,0.573,90.196,280496,4,1
+Darshan Raval,Tera Zikr,Tera Zikr,0OfaueVeRebAfWsAHajj3z,61,0.613,0.47,9,-8.441,0,0.0344,0.823,1.87e-06,0.138,0.459,102.944,208500,4,0
+Rahat Fateh Ali Khan,"Sanu Ek Pal Chain (From ""Raid"")","Sanu Ek Pal Chain (From ""Raid"")",4wANB882g1ZhF2V8ugksY1,52,0.71,0.813,7,-6.099,1,0.0381,0.545,1.68e-05,0.105,0.847,139.998,210346,4,0
+Shinedown,Threat to Survival,How Did You Love,2le5xHvcWF8PDp608d4L8D,60,0.331,0.75,5,-5.202,1,0.0436,6.86e-05,1.21e-06,0.0945,0.26,185.97,187627,4,1
+Various Artists,Best Of Bollywood Feb,Kaun Tujhe Yoon Pyar,0ccR6Rjc0xIZFFRqCZVn8f,0,0.54,0.42,5,-8.925,1,0.0351,0.869,2.99e-05,0.117,0.202,107.916,241476,4,1
+Sachet Tandon,"Bekhayali (From ""Kabir Singh"")","Bekhayali (From ""Kabir Singh"")",1feANd8EfcDP5UqSvbheM3,65,0.308,0.585,9,-5.18,0,0.0428,0.45,0,0.319,0.345,171.843,371791,3,1
+Vishal-Shekhar,Om Shanti Om,Ajab Si,5FXMRdJjKq1BIX4e8Eg9mK,60,0.697,0.438,8,-8.411,1,0.0289,0.397,0,0.293,0.58,117.954,241668,4,1
+Vishal Mishra,"Kaise Hua (From ""Kabir Singh"")","Kaise Hua (From ""Kabir Singh"")",1y1rQTkWmrZdJmjwuK07GC,63,0.385,0.464,2,-6.975,1,0.0404,0.452,0,0.109,0.15,137.839,234722,4,1
+Dieselboy,Barrier Break,Barrier Break,0fTQwHbGCCqOdJtYatBjh9,0,0.361,0.942,7,-8.811,1,0.227,0.00572,0.713,0.789,0.297,175.023,435920,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Odyssey (Modern Version),5Jmf5Bu1jxbFtZoQpxh4jo,38,0.469,0.537,0,-14.934,1,0.0365,0.636,0.745,0.174,0.356,159.993,241554,4,1
+Mannan Shaah,Commando 3,Akhiyaan Milavanga,3Nb0sHsDac1jX6nO8tA4Nf,49,0.326,0.6,3,-5.882,1,0.106,0.738,3.98e-06,0.0677,0.475,193.126,302319,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Conflict on the Seas,4toX1NCWHI7CFQXG0PfkH5,31,0.208,0.674,2,-12.896,1,0.0391,0.788,0.898,0.127,0.036,67.977,184042,4,1
+Shankar-Ehsaan-Loy,Dil Chahta Hai,Dil Chahta Hai,2r1CHpKRDdzHGJScn5UqjX,52,0.813,0.554,10,-9.105,1,0.04,0.0906,1.23e-06,0.0629,0.782,103.953,310080,4,1
+G. V. Prakash,Endukante Premanta,Nee Choopule,2FPYJZygSLhD9RdPvEnBha,38,0.573,0.35,2,-8.126,1,0.026,0.262,1.75e-05,0.0976,0.0386,90.925,360000,4,1
+Sachin-Jigar,Shor in the City (Original Motion Picture Soundtrack),Saibo,6udC4b4jOSnHb9ItnXgKLR,64,0.619,0.428,2,-7.867,1,0.0281,0.736,1.27e-05,0.136,0.542,90.056,195253,4,0
+Jatin-Lalit,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Deewana Hai Dekho,1CK7tnXhsr0Br5ZzbZdBzh,47,0.776,0.792,7,-5.619,1,0.18,0.167,1.96e-06,0.13,0.588,102.988,345267,4,0
+A.R. Rahman,Jaane Tu... Ya Jaane Na,Nazrein Milaana Nazrein Churaana,3wnahgmj1q8YvjkoXTLG8c,44,0.751,0.54,9,-7.942,1,0.0753,0.103,0.000224,0.102,0.9,110.015,234858,4,1
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Sooraj Ki Baahon Mein,723xQva0yBF7M6K3nDAG8R,56,0.855,0.553,11,-6.52,1,0.0331,0.19,5.19e-06,0.0942,0.874,124.922,202919,4,0
+Darshan Raval,"Chogada (From ""Loveyatri"")","Chogada (From ""Loveyatri"")",4ymPEyiXabTe1NO8q8EFxG,61,0.359,0.972,7,-3.452,1,0.109,0.136,2.52e-06,0.14,0.595,62.914,249742,4,1
+Ten Second Songs,"Ten Second Songs, Vol. 1",No Time to Die Cornell,2MQIV8376Oylhqbcjuxbk0,32,0.574,0.271,4,-9.876,0,0.0275,0.357,0,0.115,0.0782,85.013,203896,4,0
+Godsmack,When Legends Rise,Under Your Scars,7rPHHJMqOpJyf3raEuI5o9,56,0.25,0.765,11,-4.154,0,0.0414,0.0618,2.39e-06,0.118,0.219,165.207,231118,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Ariadnes's Fate,0DWY4smoUO9JI3IOhOATe1,26,0.464,0.545,7,-14.875,1,0.0344,0.731,0.767,0.121,0.101,155.987,57975,3,1
+Pritam,Tum Mile (Original Motion Picture Soundtrack),Dil Ibaadat,3Kl8p2PxVf8eAayLwTxOIm,59,0.59,0.859,2,-5.005,0,0.0416,0.633,0,0.286,0.634,149.966,329387,4,0
+Rochak Kohli,Aiyaary,Yaad Hai,5j815QNPbEq3e9Ciob41CA,43,0.403,0.311,2,-9.797,1,0.0299,0.93,5.37e-05,0.0961,0.17,139.485,320142,3,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Ash Hills,7MInrCoq82iBsG3pKhJTjr,26,0.163,0.0484,2,-26.266,0,0.0377,0.769,0.88,0.122,0.0378,140.224,99252,4,1
+Pritam,Love Aaj Kal (Original Motion Picture Soundtrack),Shayad - Reprise,2L2YNB3YIletW4fUtwphDv,53,0.432,0.536,8,-7.34,1,0.032,0.904,0.000626,0.102,0.324,135.837,245735,4,1
+Krsna Solo,Tanu Weds Manu,Sadi Gali,1tEto4JrqNmBZFH5uAiYqb,64,0.726,0.994,5,-2.433,0,0.0543,0.021,0.0108,0.222,0.779,129.989,264900,4,0
+Pritam,Love Aaj Kal (Original Motion Picture Soundtrack),Yeh Dooriyan,6L4QbsQrP9ZiZdz9SfOSGV,58,0.615,0.568,7,-7.839,0,0.0304,0.695,0.054,0.0964,0.317,109.987,241636,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Valley of the Two Kings,54aEXplhvi4M0FQlptI57I,29,0.258,0.113,2,-14.494,1,0.0377,0.894,0.405,0.118,0.106,95.984,94689,3,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),"Pirates, Thugs, and Bandits",463Hlne9QzasVYgPlqDdTe,33,0.716,0.412,9,-12.393,1,0.0394,0.32,0.711,0.283,0.475,140.01,273983,4,1
+Ayushmann Khurrana,"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")","Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",3qrdLVOClRU4yPkcXZ7c5u,68,0.701,0.638,6,-3.711,1,0.302,0.492,0,0.153,0.813,177.867,132158,4,0
+A.R. Rahman,Delhi-6,Dilli - 6,7pJlOw7kYWSP2Ai4uPYYZT,44,0.64,0.468,2,-8.056,1,0.0861,0.00528,1.13e-05,0.138,0.332,176.034,214282,4,0
+Evol Intent,Amazing Friends,Broken Sword,5YJIHyYOLHhxSNXaEQta4c,0,0.351,0.999,1,-3.208,1,0.0874,0.000253,0.835,0.301,0.34,114.711,361693,5,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Shores of Megaris,5E2Z8jc4E9n23mliW0xOYz,34,0.548,0.189,11,-15.105,0,0.0434,0.669,0.173,0.0917,0.0365,111.351,97929,4,1
+Shreya Ghoshal,"Rozana (From ""Naam Shabana"")",Rozana,1mYcukuz7uow0wc7DmPXHU,55,0.434,0.378,8,-8.7,1,0.029,0.766,0.000136,0.115,0.291,92.982,274202,4,1
+Silk Route,Boondein,Dooba Dooba,61IEe4ujPKOU7OIyubydfz,46,0.716,0.562,5,-8.741,1,0.0315,0.529,0.000133,0.0928,0.533,105.004,303020,4,1
+Shraddha Kapoor,Best Of Shraddha Kapoor,"Banjaara (From ""Ek Villain"")",2S6N9pbnkhQRyAx80HmF79,52,0.657,0.489,1,-6.829,0,0.0306,0.713,0,0.124,0.399,116.0,336567,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Kydonia,4qgEJdX67TCSEiaz3ZrYmg,29,0.62,0.36,9,-13.935,0,0.0422,0.702,0.956,0.111,0.17,123.995,59700,3,1
+Arijit Singh,"Dua Karo (From ""Street Dancer 3D"")","Dua Karo (From ""Street Dancer 3D"")",5zEx8v8GJKoTx55zGeq8me,52,0.463,0.828,0,-4.605,0,0.0857,0.124,0,0.141,0.335,170.081,269382,4,0
+Diljit Dosanjh,Con.Fi.Den.Tial,High End,5dUpL1UYXkjXqf55FrBLgr,52,0.712,0.719,2,-5.83,1,0.0774,0.152,7.25e-05,0.0589,0.493,82.05,176671,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Forgotten Isle,64k7ZXuJr06WR1dFhjopAT,27,0.386,0.0526,9,-27.91,0,0.031,0.697,0.934,0.109,0.0752,79.93,118221,3,1
+Shraddha Kapoor,Best Of Shraddha Kapoor,"Banjaara (From ""Ek Villain"")",2S6N9pbnkhQRyAx80HmF79,52,0.657,0.489,1,-6.829,0,0.0306,0.713,0,0.124,0.399,116.0,336567,4,0
+Breaking Benjamin,Phobia (Clean Version),The Diary of Jane - Single Version,0faXHILILebCGnJBPU6KJJ,73,0.392,0.964,10,-4.441,0,0.0644,7.13e-05,0.0387,0.106,0.269,167.024,200547,4,1
+Various Artists,Kabir Singh,Tujhe Kitna Chahein Aur (Film Version),0mHU8dcIvGrGDazLMmQpSg,62,0.36,0.25,11,-9.506,1,0.0341,0.603,0,0.0915,0.293,145.045,276245,4,1
+Arijit Singh,Love Dose Arijit Singh,"Mast Magan (From ""2 States)",5bVmOD7UKfP2iLFUGMtdnS,39,0.659,0.774,7,-7.014,1,0.0372,0.606,0.000333,0.185,0.883,82.995,280161,4,0
+Juvenile,Reality Check (Amended U.S. Version),Sets Go Up (feat. Wacko),7aYgaUAP12qRQmqcyXnBzo,44,0.713,0.909,1,-5.097,1,0.23,0.0954,5.8e-05,0.0836,0.503,130.941,251867,5,0
+Ram Sampath,Fukrey,Ambarsariya,4qRcjFkFqSpLBzcbLDt7HL,55,0.649,0.458,4,-7.632,0,0.0446,0.574,0,0.113,0.748,180.071,248182,4,0
+Palak Muchhal,2016 Shinning Star - Palak Muchhal,"Kaun Tujhe (From ""M.S.Dhoni - The Untold Story"")",5b7u3idwfY2LyqMQlCwscm,54,0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,241449,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Legend of the Eagle Bearer (Main Theme),5wNLSF0W0NZyu9eRpufdqn,49,0.536,0.566,7,-12.088,1,0.0333,0.163,0.691,0.0706,0.0936,114.985,233453,4,1
+Amit Trivedi,Andhadhun,Naina Da Kya Kasoor,4JQxGJ8jsKW8pOUVoAgOZr,63,0.845,0.659,9,-6.348,1,0.0373,0.159,0.0129,0.0782,0.547,125.965,210952,4,1
+Armaan Malik,"Dil Mein Ho Tum (From ""Cheat India"")","Dil Mein Ho Tum (From ""Cheat India"")",1mjWhM7GQTTxJxg2F0iCRS,58,0.608,0.653,8,-7.573,0,0.0427,0.507,0.000243,0.107,0.423,86.933,326765,4,0
+Shinedown,ATTENTION ATTENTION,MONSTERS,1qAuIPMALdFtGv2Ymjy5l0,67,0.487,0.9,5,-4.54,1,0.0529,0.00204,6.42e-06,0.11,0.377,149.959,248373,4,1
+Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Senorita,3TAhWtQnpoL5Vl9VQPl9fU,55,0.701,0.681,9,-6.442,1,0.0466,0.134,0,0.064,0.81,122.539,229576,4,0
+Pritam,Jab We Met,Tum Se Hi,7eQl3Yqv35ioqUfveKHitE,65,0.609,0.538,6,-7.842,1,0.0273,0.328,0,0.125,0.608,130.007,321225,4,1
+Ram Sampath,Fukrey,Ambarsariya,4qRcjFkFqSpLBzcbLDt7HL,55,0.649,0.458,4,-7.632,0,0.0446,0.574,0,0.113,0.748,180.071,248182,4,1
+Various Artists,Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack),Buddhu Sa Mann,1dxbiVeiV7nQ2V9qXnhJiB,59,0.644,0.87,10,-4.816,1,0.0394,0.193,0,0.549,0.702,125.998,206858,4,0
+Rajesh Roshan,Kites,Zindagi Do Pal Ki,3s6H6UW7yPu2rsF8CGki60,49,0.678,0.771,6,-2.849,1,0.0266,0.0277,0.00253,0.149,0.462,105.976,253200,4,0
+Various Artists,Luka Chuppi,Duniyaa,14cceH4q4ME5ywqe2DbFGs,52,0.435,0.658,7,-5.949,0,0.0368,0.699,0,0.125,0.524,77.17,222501,4,1
+Various Artists,Raabta,Ik Vaari Aa (Jubin Version),5DgwplsDLjLqLyQ6aarz1Q,49,0.511,0.829,7,-5.661,1,0.0386,0.234,0,0.338,0.423,127.893,274476,4,0
+Disturbed,Ten Thousand Fists,Decadence,0jY829pCMnstlNtaE72vSB,59,0.454,0.968,8,-3.457,1,0.19,5.77e-05,0.0916,0.0668,0.291,92.042,204787,4,1
+Various Artists,Kabir Singh,Tujhe Kitna Chahne Lage,5QtEFRYavs5S3GHtFEq7A4,66,0.427,0.396,11,-7.556,1,0.0366,0.736,0,0.11,0.306,70.368,284780,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Messara Plain,58hGxTFNPOv9DpYSWREqVr,27,0.211,0.0635,7,-24.35,0,0.043,0.945,0.908,0.132,0.034,133.786,111071,5,1
+Amit Trivedi,Dear Zindagi (Original Motion Picture Soundtrack),Love You Zindagi,6k3XXCE1ZzwevQlxf8dNaw,58,0.688,0.701,3,-7.505,1,0.0298,0.06,0.0301,0.271,0.385,110.019,232505,4,0
+A.R. Rahman,Rang De Basanti (Original Motion Picture Soundtrack),Khalbali,6sXzqMagXtWvSOI9nNc4UD,47,0.789,0.707,7,-7.973,1,0.109,0.0237,0,0.177,0.605,97.015,379227,4,0
+Shankar-Ehsaan-Loy,Dil Dhadakne Do,Dil Dhadakne Do,3MzNYNwL7I4dhG4sa1VkK1,40,0.683,0.881,10,-3.943,0,0.0858,0.0211,0,0.114,0.792,159.942,228375,4,0
+Vishal-Shekhar,Sultan (Original),Bulleya,3tgdOveYac7YMEAQD9sGLf,52,0.675,0.579,4,-11.976,1,0.0308,0.369,3.38e-06,0.118,0.724,97.01,357068,4,1
+Disturbed,Ten Thousand Fists,Ten Thousand Fists,5hkgrWxkobGtg30I7DsfVu,64,0.54,0.977,1,-3.409,1,0.0878,2.55e-05,0.0553,0.0533,0.211,106.911,212040,4,1
+A.R. Rahman,Swades,Yun Hi Chala Chal,3GrTI5vAoDD3VE24VTBJAc,50,0.822,0.687,9,-8.167,1,0.0421,0.0593,0,0.0609,0.816,106.47,446987,4,1
+Saving Abel,Saving Abel,Addicted,3pxCXv0NACYfYnLjFcQW5D,68,0.512,0.864,7,-4.146,1,0.0338,0.000821,0,0.0982,0.527,138.018,222827,4,1
+Vishal-Shekhar,Om Shanti Om,Main Agar Kahoon,0iXLwnLmLwn9y54JtBTNxY,59,0.533,0.436,5,-7.521,0,0.0276,0.234,3.17e-06,0.46,0.371,146.868,308158,3,1
+Various Artists,Kabir Singh,Tera Ban Jaunga,3oWxFNsXstcancCR1wODR4,65,0.605,0.53,11,-6.346,1,0.0246,0.822,0,0.131,0.399,93.951,236437,4,0
+Various Artists,Ravishing Deepika,Nagada Sang Dhol,1tlDOttHVIHtJKJazVz0Ho,44,0.743,0.921,3,-5.007,0,0.14,0.29,0.0068,0.0402,0.674,113.284,273256,3,0
+Bullet For My Valentine,Hand Of Blood,Hand Of Blood,5JWDt4NZNiZQR8iMenaa7h,50,0.375,0.985,8,-2.754,1,0.0936,0.000246,0,0.07,0.455,94.468,217453,4,0
+Theory of a Deadman,Scars & Souvenirs (Special Edition),All or Nothing,2ejt6exJRE2bXPfp37Xi8w,54,0.419,0.785,10,-4.483,0,0.0313,0.0289,0,0.0799,0.332,152.053,210560,4,1
+Yo Yo Honey Singh,Yo Yo Honey Singh Is Back,"Yaar Naa Miley (From ""Kick"")",0qzuXwxORXTwSsBU2aJGj5,47,0.663,0.938,0,-2.894,0,0.0335,0.0102,9.01e-06,0.75,0.551,127.988,243206,4,0
+Neha Kakkar,Best Of Neha Kakkar,"London Thumakda (From ""Queen"")",1VY2incfH4TLT9PCbot6lj,49,0.835,0.718,0,-6.614,1,0.0816,0.363,0.000919,0.0625,0.64,139.968,230468,4,0
+Pritam,Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition],Ae Dil Hai Mushkil Title Track,1UWacd8x8tPPwmrPB1MoBI,62,0.495,0.654,3,-6.639,0,0.0679,0.713,0,0.165,0.35,123.896,269032,4,1
+Pritam,Yeh Jawaani Hai Deewani,Balam Pichkari,18e3XXYCv4Tx8uUl1mP3CN,58,0.732,0.944,0,-4.115,1,0.09,0.209,0,0.403,0.957,120.019,288903,4,0
+Theory of a Deadman,Say Nothing,World Keeps Spinning,62CoqBSo6NUdiQQTIKQQAM,55,0.552,0.835,11,-4.848,1,0.0384,0.0392,0,0.0989,0.335,75.015,214604,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Markos,7k3O9BbpNPzf8AGC2LL58h,31,0.844,0.162,0,-15.155,1,0.157,0.846,0.526,0.0889,0.394,105.019,52190,3,1
+Shankar-Ehsaan-Loy,Best of SEL,"Kya Karoon? (From ""Wake Up Sid "")",1FRcg84SSGxJTsIR16z4AU,40,0.594,0.548,9,-7.588,0,0.0267,0.611,0.00146,0.117,0.374,98.014,236160,4,0
+Amit Trivedi,Aisha (Original Motion Picture Soundtrack),Sham,5Q58RkKyUafm15Syxg79DW,60,0.722,0.288,4,-10.767,1,0.0444,0.827,1.06e-05,0.12,0.502,119.899,284627,4,0
+Meet Bros.,Dream Girl,Ik Mulaqaat,17uI7afUaul1hCzMTF9txd,62,0.634,0.648,3,-6.781,0,0.0412,0.361,0,0.619,0.667,95.989,247812,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Guards of the Cult,0mOtiGJqQz9g9xMhAYZBcm,30,0.433,0.804,0,-11.978,1,0.0384,0.00523,0.87,0.325,0.128,159.984,207829,4,1
+Amaal Mallik,Amaal Mallik &amp; Armaan Malik - Mtv Unplugged Season 7,Sab Tera Unplugged,6EYhB6w3JQQIrBZNMVjDyb,43,0.624,0.439,7,-11.537,1,0.0468,0.244,0,0.785,0.376,80.065,282871,4,0
+Badshah,The Badshah of Party Hits,Kar Gayi Chull,3fPgIknlkDWXs1l2noKZbp,58,0.827,0.737,11,-5.473,0,0.0764,0.0316,0.000322,0.211,0.873,121.99,187711,4,1
+Stone Sour,Come What(ever) May [10th Anniversary Edition],Through Glass - Acoustic; Live,2KzwC4HDRCiEdBIOOFMLib,47,0.571,0.613,3,-5.239,0,0.033,0.714,0,0.984,0.299,107.785,284304,4,1
+A.R. Rahman,Jaane Tu... Ya Jaane Na,Kabhi Kabhi Aditi,3APdIdF8H0jsxSuGOqXedS,61,0.791,0.558,7,-7.155,0,0.0661,0.276,0,0.0859,0.872,95.077,218836,4,1
+A.R. Rahman,Tamasha,Matargashti,5GeBgck1MU2tlIkMpsn8uT,54,0.792,0.63,0,-6.741,1,0.0682,0.102,0,0.0758,0.659,100.022,328052,4,0
+Monty Sharma,Saawariya (Original Motion Picture Soundtrack),Jab Se Tere Naina,0gRNu9dVzi5aC87AI1empZ,57,0.599,0.653,0,-7.576,0,0.122,0.362,0,0.144,0.678,79.968,284573,4,1
+A.R. Rahman,Rang De Basanti (Original Motion Picture Soundtrack),Rang De Basanti,1SdFBc40uBU5Pqylo05VIC,49,0.848,0.925,7,-6.161,1,0.0767,0.054,0.104,0.209,0.69,105.006,363800,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Odyssey (Greek version),45NoLEWcDzE2DKvZoTRgJQ,44,0.467,0.0678,9,-17.152,1,0.0387,0.907,1.49e-06,0.123,0.0707,79.915,189237,4,1
+Poets of the Fall,Carnival of Rust,Carnival of Rust,2DtPEKs3Pj7E06EoWW4vw8,56,0.492,0.59,5,-4.593,0,0.0239,0.225,2.79e-05,0.0973,0.124,91.018,262947,4,1
+Shankar-Ehsaan-Loy,2 States,Locha-E-Ulfat,3V3QbgrOZKtFv5MXzAAdZr,47,0.705,0.74,0,-5.82,1,0.0505,0.0365,0,0.487,0.928,106.953,288462,4,0
+Various Artists,Bareilly Ki Barfi,Nazm Nazm,1We89SAonMk70QBbfXERxa,63,0.62,0.627,7,-6.187,1,0.0307,0.497,0,0.133,0.557,82.008,226941,4,1
+Hanif Shaikh,Paathshaala,Aye Khuda,1vgVsR5rkXGP4NmUcoroJH,49,0.656,0.762,9,-6.328,1,0.0315,0.549,0,0.139,0.558,110.002,280497,4,1
+Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Jab Mila Tu,6Sp7azay1NZU4wxlFacWCl,46,0.626,0.561,9,-6.644,0,0.0304,0.0482,0,0.304,0.794,167.916,251853,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),The Cult of Kosmos,2otV21KTxqlFIIyuB5fGKF,30,0.0987,0.247,0,-20.377,1,0.0402,0.778,0.96,0.108,0.0553,80.01,255610,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Mytilene,5GiVfjeCxtr7xdOKi9i6rR,26,0.355,0.269,3,-19.934,1,0.0354,0.735,0.878,0.102,0.0872,168.172,70797,4,1
+Jatin-Lalit,Sangharsh,Mujhe Raat Din Bas,6Gk3mU3np8miLUtZjoIVCu,48,0.614,0.469,5,-13.124,1,0.0338,0.4,3.93e-06,0.102,0.657,118.169,311333,4,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Labyrinth of Lost Souls,1lXHaJmyib42vz2DhB1Lvo,26,0.177,0.27,6,-17.754,0,0.0369,0.398,0.899,0.109,0.0369,116.61,100789,5,1
+Various Artists,Baar Baar Dekho (Original Motion Picture Soundtrack),Teri Khair Mangdi,3uHisD8WxXOYLaxeOl098L,60,0.718,0.58,2,-5.149,0,0.028,0.602,0,0.196,0.31,97.979,225274,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Phoibe the Orphan,0wIbnzMF62HpAjDmT7ds7b,35,0.68,0.0994,2,-17.079,0,0.0443,0.953,0.345,0.0958,0.171,140.149,69241,3,1
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Myrrine,64A1gRB8JoS9emRygU0xyg,35,0.44,0.152,9,-15.939,0,0.0284,0.871,0.886,0.121,0.237,172.044,151033,4,1
+Amit Trivedi,Andhadhun,Aap Se Milkar,37RHlFBt2K25EgSsjkVVtz,42,0.86,0.617,11,-5.072,1,0.109,0.169,3.9e-05,0.0798,0.716,96.029,236875,4,0
+Seether,Against The Wall (Acoustic Version),Against The Wall - Acoustic Version,7iHpX7m9owsqawBy008yvF,58,0.58,0.488,1,-10.585,1,0.0262,0.255,2.63e-05,0.108,0.13,131.998,206825,4,1
+Suni Clay,Suni Clay,My Hood (Full Mix),1buitg9HpTppOpOvXVu6E9,45,0.677,0.936,0,-3.036,0,0.151,0.134,0,0.156,0.762,99.943,271413,4,1
+The Prodigy,"Always Outnumbered, Never Outgunned",You'll Be Under My Wheels,0O0ZTzfty1pRwJj6Tvej0Y,36,0.672,0.944,4,-5.214,0,0.0761,0.0102,0.9,0.321,0.382,114.008,236973,4,0
+Various Artists,Putumayo Presents Indian Groove,Pani Da Rang (Male),44gvSP8Kpx6P7VSRHL9dN8,32,0.672,0.67,4,-7.257,0,0.0315,0.172,0.000198,0.197,0.533,98.032,239333,4,1
+Ash King,"Nazar Na Lag Jaaye (From ""Stree"")","Nazar Na Lag Jaaye (From ""Stree"")",0cWLJcdvM6QlOQ7UJdB4jb,59,0.527,0.622,7,-8.172,0,0.0842,0.7,2.82e-06,0.126,0.672,173.709,206175,4,1
+Arko,Gold,Naino Ne Baandhi,1rinwuHEJlACLuDxihAlCu,53,0.294,0.705,10,-7.302,1,0.0488,0.548,0,0.113,0.548,81.463,241894,4,0
+The Flight,Assassin's Creed Odyssey (Original Game Soundtrack),Enter the Animus,6uCtC6wL11arNjpqBuVOx5,33,0.553,0.433,7,-13.376,0,0.0315,0.392,0.828,0.11,0.178,100.008,111690,4,1
+FamilyJules,The Only Thing They Fear Is You,The Only Thing They Fear Is You,7AYSl3u70hJ402o0u0gry5,56,0.468,0.969,4,-3.925,1,0.113,0.00107,0.967,0.0583,0.0619,103.016,254154,4,1
+Arijit Singh,Best Of Arijit Singh - Revisited,"Sooraj Dooba Hain (From ""Roy"")",0zesdvhSoE3N2pjfcKTviI,35,0.616,0.75,2,-4.629,1,0.0594,0.172,0,0.137,0.434,128.051,264854,4,0

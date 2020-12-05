@@ -1,0 +1,45 @@
+,artist,album,track_name,track_id,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,target
+0,Arijit Singh,Arijit Singh Broken Strings,"Milne Hai Mujhse Aayi (From ""Aashiqui 2"")",24b9eObMccIrDSs3NvdrRd,45,0.515,0.707,11,-5.467,0,0.0426,0.0357,0,0.134,0.304,143.752,295798,4,1
+1,Skillet,Awake,Monster,2UREu1Y8CO4jXkbvqAtP7g,77,0.64,0.957,8,-2.336,1,0.0741,0.0431,0,0.0789,0.692,134.992,178013,4,1
+2,Jeet Gannguli,Musical Bond: Jeet Gannguli & Arijit Singh,"Khamoshiyan (From ""Khamoshiyan"")",50mnqGStE7b577DH2k2ltd,41,0.527,0.521,2,-6.837,0,0.0272,0.631,0,0.158,0.266,143.892,335710,3,1
+3,Pritam,Jannat 2 (Original Motion Picture Soundtrack),Jannatein Kahan,62wnQra2VgCUyHO3BUIAcr,45,0.545,0.77,0,-6.102,1,0.0655,0.308,2.8e-05,0.167,0.696,159.975,228093,4,0
+4,Armaan Malik,Main Rahoon Ya Na Rahoon,Main Rahoon Ya Na Rahoon,6f3ANRNQ8nCiPZ6VqXqq93,60,0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,309458,3,1
+5,A.R. Rahman,Delhi-6,Rehna Tu,5RZbS87YI2wd87SWuO0YAX,49,0.643,0.458,11,-11.502,0,0.0594,0.327,0.00394,0.0966,0.73,82.041,409275,4,0
+6,Arijit Singh,Valentine #1s Ghazals,Gulon Mein Rang Bhare,3WVbBQC4gfy3jNRfBFU6XQ,30,0.516,0.421,7,-10.27,1,0.0369,0.492,0.000507,0.14,0.205,87.87,315385,4,0
+7,Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Senorita,3TAhWtQnpoL5Vl9VQPl9fU,55,0.701,0.681,9,-6.442,1,0.0466,0.134,0,0.064,0.81,122.539,229576,4,0
+8,One Direction,Made In The A.M. (Deluxe Edition),Drag Me Down,2K87XMYnUMqLcX3zvtAF4G,81,0.73,0.703,0,-5.672,0,0.0369,0.109,0,0.0657,0.595,138.113,192120,4,1
+9,Breaking Benjamin,Dear Agony,I Will Not Bow,2yXyz4NLTZx9CLdXfLTp5E,72,0.533,0.955,8,-3.708,1,0.0653,0.000165,1.36e-05,0.38,0.55,107.984,216733,4,1
+10,Pritam,Barfi! (Original Motion Picture Soundtrack),Kyon,1sYC1fG7s4p0pTykrJqmgW,58,0.726,0.664,2,-6.674,1,0.0331,0.636,0,0.0964,0.831,121.923,266053,4,1
+11,A.R. Rahman,Rockstar,Kun Faya Kun,7F8RNvTQlvbeBLeenycvN6,65,0.362,0.378,1,-11.008,1,0.0329,0.679,0,0.091,0.575,87.549,470500,4,0
+12,Sanjay Leela Bhansali,Ram-Leela (Original Motion Picture Soundtrack),Laal Ishq,11DEcuDVbSK1vrP0Rosp50,40,0.512,0.67,3,-5.792,1,0.027,0.034,0,0.309,0.446,105.957,387170,4,1
+13,Armaan Malik,Bollywood Romantic Songs With Armaan Malik,Main Hoon Hero Tera (Armaan Malik Version),4Cui0W0aZx5ruXSrSwp9GH,44,0.602,0.622,7,-5.61,0,0.0293,0.102,0,0.138,0.218,110.016,284201,4,1
+14,Vishal-Shekhar,Bang Bang (Original Motion Picture Soundtrack),Bang Bang,5R7HpWXej6SiCrd9YJsC5g,42,0.703,0.678,4,-8.644,0,0.0417,0.0478,7.02e-05,0.496,0.694,120.051,320000,4,1
+15,A.R. Rahman,AR Rahman Musique,"Guzarish (From ""Ghajini"")",39bHz64P8EIGXnoPfpYnUE,47,0.595,0.624,9,-10.943,0,0.0603,0.0925,0,0.114,0.647,170.001,327030,4,1
+16,Pritam,Jannat 2 (Original Motion Picture Soundtrack),Rab Ka Shukrana,2VJIaxgWeyw9loL1sqKl7c,47,0.602,0.559,10,-6.203,0,0.0426,0.615,0,0.131,0.44,122.017,299573,4,0
+17,Jeet Gannguli,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Hamari Adhuri Kahani (Title Track),3HiobOOpSpMsi95WBKPBYk,62,0.223,0.359,0,-7.569,1,0.0312,0.845,0,0.133,0.193,73.059,398799,4,0
+18,Arijit Singh,Arijit Singh Broken Strings,"Tose Naina (From ""Mickey Virus"")",0CkKNiZoIQMkJfvRfYTti5,46,0.523,0.561,4,-6.474,1,0.0329,0.426,0,0.109,0.31,139.885,263549,4,1
+19,Vishal-Shekhar,Om Shanti Om,Jag Soona Soona Lage,2sVzO3L0fdOMVe8wVlM0IE,53,0.563,0.71,7,-6.212,1,0.0592,0.0663,0,0.105,0.262,133.873,329429,4,0
+20,Vishal-Shekhar,Musical Bond: Vishal Shekhar & Anvita Dutt,"Uff (From ""Bang Bang"")",1ZCw8jcbiUc2KHgqM86nWr,0,0.783,0.671,5,-8.572,1,0.0639,0.294,0,0.134,0.651,141.996,272112,4,0
+21,Armaan Malik,Bollywood Romantic Songs With Armaan Malik,Tumhe Apna Banane Ka,3ELkIxDoWKGllVJty2aGXU,44,0.503,0.604,9,-7.127,0,0.0342,0.876,0.0838,0.0433,0.308,87.048,310077,4,0
+22,Pritam,Jannat (Original Motion Picture Soundtrack),Haan Tu Hain,4vgCpNUUcpEIBifidhQOnR,52,0.415,0.904,2,-3.586,0,0.104,0.718,0,0.0739,0.729,83.648,324880,4,1
+23,A.R. Rahman,Rockstar,Tum Ho,7uNnlVit5qDvfOje0pqICF,61,0.356,0.47,5,-8.929,1,0.0278,0.518,1e-05,0.0807,0.167,93.895,316500,4,1
+24,Pritam,Holiday - A Soldier Is Never Off Duty,Shaayraana,0072MKNpMeJNx8aRfTNfQW,51,0.604,0.665,2,-4.244,1,0.049,0.607,1.33e-05,0.0832,0.702,93.963,261439,4,0
+25,Melanie Martinez,Cry Baby (Deluxe Edition),Play Date,4DpNNXFMMxQEKl7r0ykkWA,85,0.68,0.729,5,-5.077,1,0.0475,0.612,0,0.224,0.446,123.97,179867,4,0
+26,Vishal-Shekhar,Student of the Year (Original Motion Picture Soundtrack),Ishq Wala Love,1hQia6rxgfM1ly2hE3StWp,61,0.711,0.295,0,-12.377,0,0.0334,0.533,4.8e-05,0.0782,0.694,135.048,257973,4,0
+27,Breaking Benjamin,Phobia (Clean Version),The Diary of Jane - Single Version,0faXHILILebCGnJBPU6KJJ,73,0.392,0.964,10,-4.441,0,0.0644,7.13e-05,0.0387,0.106,0.269,167.024,200547,4,1
+28,Arijit Singh,Loveholic Arijit Singh,"Suno- Na Sangemarmar (From ""Youngistaan"")",2BpjrAuCN2nOKEhCRYecY5,36,0.658,0.563,0,-8.91,0,0.0317,0.494,7.58e-05,0.378,0.582,119.98,201676,4,1
+29,Pritam,Cocktail,"Tum Hi Ho Bandhu (From ""Cocktail"")",2zZTXtLqCsICzEcztKjn47,52,0.714,0.892,11,-5.342,0,0.0516,0.00145,0.000817,0.0462,0.899,134.997,282012,4,0
+30,Disturbed,Immortalized (Deluxe Edition),The Sound of Silence,0eZBeB2xFIS65jQHerispi,72,0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,248467,4,1
+31,Mithoon,Aashiqui 2,Aasan Nahin Yahan,06zJUeKU5KFy50Cho6pDcr,53,0.549,0.437,10,-7.169,0,0.0263,0.766,0.000407,0.133,0.236,93.976,214470,4,0
+32,A.R. Rahman,Jaane Tu... Ya Jaane Na,Kahin To,3E424W0IJS3ypZ4YOxE0Jn,57,0.61,0.492,10,-7.55,1,0.0261,0.334,6.3e-06,0.0979,0.165,90.984,303206,4,1
+33,Pritam,Barfi! (Original Motion Picture Soundtrack),Phir Le Aya Dil - Reprise,7fpWJr5shT90KiCHXKHxch,58,0.231,0.545,7,-8.92,1,0.0358,0.838,3.5e-06,0.0961,0.325,77.727,305613,4,1
+34,Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Bin Tere - Reprise,7zG4akZAie70mOCMmtoacS,40,0.452,0.249,0,-10.163,1,0.0299,0.876,2.3e-05,0.115,0.419,149.599,220147,4,1
+35,Arijit Singh,Groove With Arijit Singh,"Ilahi (From ""Yeh Jawaani Hai Deewani"")",0VxgNsSywsjapKGXvzj8RH,46,0.594,0.967,9,-5.767,1,0.0857,0.166,2.54e-05,0.105,0.452,132.009,228982,4,0
+36,Linkin Park,Minutes to Midnight,What I've Done,4kfm1uI9QGaoN9qm6CkAMn,35,0.623,0.93,5,-5.285,1,0.0324,0.0141,1.64e-06,0.138,0.287,120.119,205613,4,1
+37,Armaan Malik,Bollywood Romantic Songs With Armaan Malik,Wajah Tum Ho,6q1QIBUfxyZJhygVIiG6c9,49,0.6,0.684,5,-6.179,0,0.0257,0.342,1.53e-05,0.115,0.241,103.951,357634,4,1
+38,Godsmack,When Legends Rise,Unforgettable,5KghnAajixZATYQOA4xNdi,49,0.366,0.939,8,-3.505,1,0.231,0.00298,0,0.128,0.435,158.058,208419,4,1
+39,Godsmack,When Legends Rise,When Legends Rise,367RiGuLVLO3DTer4NuRLJ,57,0.428,0.914,4,-4.273,0,0.281,0.000293,1.29e-05,0.0869,0.468,124.115,172826,4,1
+40,Godsmack,When Legends Rise,Every Part Of Me,0FynWURkO8qAhN8Zw10mMt,41,0.312,0.955,10,-3.496,0,0.314,0.00166,1.4e-06,0.0588,0.575,178.446,200448,4,1
+41,Godsmack,When Legends Rise,Take It To The Edge,65HLkZn6jN3bGIOTT4a7eo,43,0.372,0.948,6,-4.185,0,0.323,0.000267,0,0.078,0.479,172.975,195812,4,1
+42,Disturbed,Ten Thousand Fists,Decadence,0jY829pCMnstlNtaE72vSB,60,0.454,0.968,8,-3.457,1,0.19,5.77e-05,0.0916,0.0668,0.291,92.042,204787,4,1
+43,Godsmack,Awake,Awake,6xXlurslWqFuyqTCBlErzX,66,0.395,0.756,7,-4.12,1,0.0544,1.74e-05,0.00665,0.319,0.475,112.092,304373,4,1
